@@ -1,7 +1,7 @@
 # Live_Sessions_On_Youtube
 Essential network knowledge for security enthusiasts. Follow along with my 'Networking for Hacking' live series.
 
-# Networking for Hackers: The Learning Path 🖥️🛡️
+# Networking for Hackers: The Learning Path 
 
 Welcome to my personal learning repository for Networking! This repository documents my journey through a comprehensive networking curriculum, specifically curated for aspiring security professionals and hackers.
 

@@ -32,6 +32,8 @@ This repository is organized into chapters.
 - **LAN (Local Area Network) Concepts**
 - **WAN (Wide Area Network) Concepts**
 
+
+ After chapter 2 we will step in to Network security.
 ---
   --Other Chapters will be updated asap!-- 
 

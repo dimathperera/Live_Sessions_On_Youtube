@@ -9,7 +9,7 @@ Networking is the backbone of cybersecurity. To break systems, you must first un
 
 ## 📚 Curriculum Structure
 
-This repository is organized into two main chapters.
+This repository is organized into chapters.
 
 ### Chapter 1: Introduction to Networking for Hacking
 *A deep dive into the fundamentals required to understand network traffic, addressing, and protocols.*
@@ -33,6 +33,7 @@ This repository is organized into two main chapters.
 - **WAN (Wide Area Network) Concepts**
 
 ---
+  --Other Chapters will be updated asap!-- 
 
 ## 🚀 Getting Started
 

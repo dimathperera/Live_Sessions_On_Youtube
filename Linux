@@ -1,1 +1,15 @@
+Link - https://www.youtube.com/watch?v=vW6sjPuVJZA&t=5679s
 
+Mastering the Terminal: Basic Linux Commands in Parrot OS
+Welcome to this live stream! Whether you are new to the Linux ecosystem or just getting started with Parrot OS, understanding how to navigate and manage your system via the command line is an essential skill.
+
+In this session, we break down the fundamental Linux commands that every user needs to know to work efficiently in the terminal.
+
+What we covered in this stream:
+Terminal Essentials: How to navigate your file system (pwd, ls, cd).
+
+File & Directory Management: Creating, moving, and deleting files and folders.
+
+Permissions: Understanding user privileges (sudo, chmod, chown, adduser).
+
+Live Q&A: Answering questions from the chat about getting started with the Parrot OS environment.

@@ -18,7 +18,7 @@ This repository is organized into chapters.
 | :--- | :--- | :--- |
 | **Day 1** | Introduction | Networking basics and how devices connect. |
 | **Day 2** | IP Addressing | IPv4, IPv6, and Subnetting concepts. |
-| **Day 3** | Advanced Subnetting | VLSM (Variable Length Subnet Masking) and ICMP. |
+| **Day 3** | Advanced Subnetting and ICMP | VLSM (Variable Length Subnet Masking) and ICMP. |
 | **Day 4** | Data Link Layer | MAC Addresses and frames. |
 | **Day 5** | Transport Layer | Protocols, ports, and segmentation. |
 | **Day 6** | Application Layer | High-level protocols and services (HTTP, HTTPS, etc.). |

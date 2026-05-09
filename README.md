@@ -24,8 +24,7 @@ This repository is organized into chapters.
 | **Day 6** | Application Layer | High-level protocols and services (HTTP, HTTPS, etc.). |
 
 ---
----
-  --Other Chapters will be updated asap!-- 
+--- 
 
 ## 🚀 Getting Started
 

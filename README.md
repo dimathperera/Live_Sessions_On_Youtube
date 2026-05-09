@@ -24,16 +24,6 @@ This repository is organized into chapters.
 | **Day 6** | Application Layer | High-level protocols and services (HTTP, HTTPS, etc.). |
 
 ---
-
-### Chapter 2: Network Architecture
-*Focusing on the big picture, enterprise design, and infrastructure planning.*
-
-- **Network Design Principles**
-- **LAN (Local Area Network) Concepts**
-- **WAN (Wide Area Network) Concepts**
-
-
- After chapter 2 we will step in to Network security.
 ---
   --Other Chapters will be updated asap!-- 
 
